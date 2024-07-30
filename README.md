@@ -1,15 +1,16 @@
 # Bayesian Network Inference and Learning 📊
 This project involves the development and implementation of a Bayesian Network for inference and learning. The focus is on inference and visualization on dataset called `StudentsPerformance.csv` from Kaggle. It cam be accessed from [here.](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+- The notebook can be accessed from [here.](https://drive.google.com/drive/folders/1fDbTtTWB4_LIUR75VmxPX2LDeCUn8kkN?usp=sharing)
 
 ## Table of Contents 📃
-- [Overview](#overview-🔎)
+- [Overview](#overview)
 - [Features](#features-⚙️)
 - [Installation](#installation-🛠️)
 - [Dataset](#dataset-🗂️)
 - [Web Application](#web-application-🌐)
 - [Demo](#demo-💻)
 
-## Overview 🔎
+## Overview
 The project includes:
 - Learning the structure of the Bayesian Network from data. It was done using `Hill Climb Search` algorithm using `K2score` metric for comparison of different models.
 - The `Conditional Probabily Distribution` table was fitted using `Maximum Liklihood Estimation`.
