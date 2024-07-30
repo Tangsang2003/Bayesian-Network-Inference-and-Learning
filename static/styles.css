@@ -1,0 +1,93 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 70%;
+            max-width: 1200px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .container img {
+            width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h2 {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .form-group {
+            margin-bottom: 20px;
+        }
+        .form-group label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        .form-group select, .form-group input {
+            width: 100%;
+            padding: 8px;
+            box-sizing: border-box;
+        }
+        .evidence-container {
+            margin-top: 20px;
+        }
+        .evidence-item {
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+        }
+        .evidence-item select {
+            width: calc(100% - 100px); /* Adjust width to fit button */
+            display: inline-block;
+        }
+        .remove-evidence-button {
+            margin-left: 10px;
+            padding: 8px 16px;
+            cursor: pointer;
+            background-color: #e57373;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+        }
+        .add-evidence-button {
+            margin-top: 10px;
+            padding: 8px 16px;
+            cursor: pointer;
+        }
+        .image-container {
+            text-align: center;
+            border: 2px solid #ddd; /* Light gray border */
+            border-radius: 8px; /* Rounded corners */
+            overflow: hidden; /* Ensure that the image does not overflow */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+            background-color: #f9f9f9; /* Light background color */
+        }
+        .image-container-cpds {
+            text-align: center;
+            width: 70%;
+            margin: auto;
+            /* display: flex; */
+            justify-content: center;
+            border: 2px solid #ddd; /* Light gray border */
+            border-radius: 8px; /* Rounded corners */
+            overflow: hidden; /* Ensure that the image does not overflow */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+            background-color: #f9f9f9; /* Light background color */
+
+        }
