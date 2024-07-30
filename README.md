@@ -2,12 +2,12 @@
 This project involves the development and implementation of a Bayesian Network for inference and learning. The focus is on inference and visualization on dataset called `StudentsPerformance.csv` from Kaggle. It cam be accessed from [here.](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
 
 ## Table of Contents 📃
-- [Overview](#overview)
-- Features
-- Installation
-- Dataset
-- Web Application
-- Demo
+- [Overview](#overview-🔎)
+- [Features](#features-⚙️)
+- [Installation](#installation-🛠️)
+- [Dataset](#dataset-🗂️)
+- [Web Application](#web-application-🌐)
+- [Demo](#demo-💻)
 
 ## Overview 🔎
 The project includes:
