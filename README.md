@@ -4,11 +4,11 @@ This project involves the development and implementation of a Bayesian Network f
 
 ## Table of Contents 📃
 - [Overview](#overview)
-- [Features](#features-⚙️)
-- [Installation](#installation-🛠️)
-- [Dataset](#dataset-🗂️)
-- [Web Application](#web-application-🌐)
-- [Demo](#demo-💻)
+- [Features](#features)
+- [Installation](#installation)
+- [Dataset](#dataset)
+- [Web Application](#web-application)
+- [Demo](#demo)
 
 ## Overview
 The project includes:
@@ -17,12 +17,12 @@ The project includes:
 - Performing inference to predict the probability distribution of `query variables` given `evidence`.
 - Inference is done using `Variable Elimination algorithm`.
 - Visualizing the Conditional Probability Distributions (CPDs) and the learned network structure.
-## Features ⚙️
+## Features
 - Structure Learning: Used `Hill Climb Search` with `K2Score` as scoring method.
 ` Inference: Perform probabilistic inference using the learned Bayesian Network.
 - Visualization: Visualize the network structure and CPDs.
 - Web Interface: A Flask web application for interacting with the Bayesian Network model.
-## Installation 🛠️
+## Installation
 #### 1. Clone the repository:
 ```commandline 
 git clone https://github.com/Tangsang2003/Bayesian-Network-Inference-and-Learning.git
@@ -45,7 +45,7 @@ pip install -r "requirements.txt"
 python app.py
 ```
 
-## Dataset 🗂️
+## Dataset
  - The project uses `StudentsPerformance.csv` from Kaggle. It cam be accessed from [here.](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
  - It contains approximately 1000 instances and 8 columns namely:
    - gender
@@ -57,7 +57,7 @@ python app.py
    - writing score
    - reading score
 
-## Web Application 🌐
+## Web Application
 - A Flask web application has been implemented which provides an interface for interacting with the Bayesian Network model. 
 - Users can query the network and visualize the results.
 - Three pages are available:
@@ -66,7 +66,7 @@ python app.py
   - CPDs: Visualizes the learned Conditional Probability Distribution.
 
 
-## Demo 💻
+## Demo
 *1.* *Querying for 'math score' given 'writing score of Below Average (D)'*
 ![Query](./static/demo/1-query.png)
 *2. Result of given query in Pie Chart*
