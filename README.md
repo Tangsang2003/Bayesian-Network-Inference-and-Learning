@@ -1,6 +1,6 @@
 # Bayesian Network Inference and Learning 📊
-This project involves the development and implementation of a Bayesian Network for inference and learning. The focus is on inference and visualization on dataset called `StudentsPerformance.csv` from Kaggle. It cam be accessed from [here.](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
-- The notebook can be accessed from [here.](https://drive.google.com/drive/folders/1fDbTtTWB4_LIUR75VmxPX2LDeCUn8kkN?usp=sharing)
+This project involves the development and implementation of a Bayesian Network for inference and learning. The focus is on inference and visualization on dataset called `StudentsPerformance.csv` from Kaggle. It can be accessed from [here.](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+- The notebook used for **structure learning** and **parameter learning** can be accessed from [here.](https://drive.google.com/drive/folders/1fDbTtTWB4_LIUR75VmxPX2LDeCUn8kkN?usp=sharing)
 
 ## Table of Contents 📃
 - [Overview](#overview)
