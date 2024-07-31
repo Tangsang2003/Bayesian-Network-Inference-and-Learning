@@ -19,7 +19,7 @@ The project includes:
 - Visualizing the Conditional Probability Distributions (CPDs) and the learned network structure.
 ## Features
 - Structure Learning: Used `Hill Climb Search` with `K2Score` as scoring method.
-` Inference: Perform probabilistic inference using the learned Bayesian Network.
+- Inference: Perform probabilistic inference using the learned Bayesian Network.
 - Visualization: Visualize the network structure and CPDs.
 - Web Interface: A Flask web application for interacting with the Bayesian Network model.
 ## Installation
